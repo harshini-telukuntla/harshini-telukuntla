@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Harshini
 
-<!--
-**harshini-telukuntla/harshini-telukuntla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Business Systems Student  
+📍 Hyderabad, India  
+💻 Passionate about Web Development and Software Development  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java
+- Python
+- SQL
+- HTML, CSS, JavaScript
+- Data Structures & OOP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 💰 Personal Finance Management System
+
+## 🌱 Currently Learning
+- Advanced JavaScript
+- Backend Development
+- Cloud Fundamentals
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/harshinitelukuntla
